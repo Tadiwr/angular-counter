@@ -12,3 +12,13 @@ button {
     padding-left: 10px;
     padding-right: 10px;
 }
+
+a {
+    transition: all 0.3s;
+    font-weight: 500;
+    color: blue;
+}
+
+a:hover {
+    color: purple;
+}
